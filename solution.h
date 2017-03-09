@@ -7,9 +7,9 @@
 
 #include <vector>
 
-class Solution{
+class Solution {
 public:
-    std::vector<int> findDisappearedNumbers(std::vector<int>& nums);
+    std::vector<int> findDisappearedNumbers(std::vector<int> &nums);
 };
 
 #endif //LEETCODE448_SOLUTION_H
